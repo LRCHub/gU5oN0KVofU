@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "愛をこめて花束を",
   "base_artist": "Superfly",
-  "createdAt": "2025-12-28T17:21:06.747272Z",
+  "createdAt": "2026-03-18T05:23:59.669171Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Superfly",
       "has_synced": false,
       "path": "select/pl_01_愛をこめて花束を_Superfly.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "has_synced": false,
+      "path": "select/localdb_01_愛をこめて花束を_Superfly.txt",
+      "repo_name": "gU5oN0KVofU"
     }
   ]
 }
