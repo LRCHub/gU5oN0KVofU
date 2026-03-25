@@ -1,4 +1,4 @@
-# Superfly – 愛をこめて花束を -Orchestra Ver.-
+# Superfly – 愛をこめて花束を
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
